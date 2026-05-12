@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "name": "ASUS ROG Strix",
+      "price": 95000,
+      "battery": 4,
+      "category": "gaming laptop",
+      "brand" : "asus"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo Legion 5",
+      "price": 98000,
+      "battery": 9,
+      "category": "gaming laptop",
+      "brand" : "lenovo"
+    },
+    {
+      "id": 3,
+      "name": "MacBook Air M2",
+      "price": 110000,
+      "battery": 5,
+      "category": "ultrabook",
+      "brand" : "apple"
+    },
+    {
+      "id": 4,
+      "name": "HP Victus",
+      "price": 85000,
+      "battery": 45,
+      "category": "gaming laptop",
+      "brand" : "hp"
+    }
+  ]
